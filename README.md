@@ -263,4 +263,4 @@ For further reading and exploration, here are links to the articles related to e
 
 For questions, support, or collaboration inquiries, please reach out to us at:
 
-- **Email**: [sayer@block.science](mailto:sayer@block.science)
+- **Email**: [sayer@dynamicalsystemsgroup.com](mailto:sayer@dynamicalsystemsgroup.com)
